@@ -1,0 +1,105 @@
+Uh, good afternoon everyone. I hope the audio, the slides and the video is clearly visible.
+CHENNUPATI R PRASANNA . 1 minute 44 seconds
+Yeah, thanks for the confirmation. Let me allow you to. Yeah, thanks. Let me allow you to take part in the discussion. So let me allow me to unmute you.
+CHENNUPATI R PRASANNA . 2 minutes
+OK, so I hope you're able to see the screen.
+CHENNUPATI R PRASANNA . 2 minutes 10 seconds
+Alright.
+CHENNUPATI R PRASANNA . 2 minutes 15 seconds
+OK, so I hope the last class everyone was clear. Were there any questions or concern that you have in the last contact session?
+CHENNUPATI R PRASANNA . 2 minutes 27 seconds
+With respect to entity relationship, so today what are we going to focus? So today we are going to focus on two topics. The first topic that we'll focus is extended entity relationship. OK, what is extended entity ship? I'll explain you. Then we will be focusing on the mapping that.
+CHENNUPATI R PRASANNA . 2 minutes 47 seconds
+To relational model. That is what is today's target. Let's see how much we'll be able to count. So first step is what is extended entity relationship. An extended entity relationship model is the name itself is suggesting as an extension to Uh model or.
+CHENNUPATI R PRASANNA . 3 minutes 7 seconds
+Enhanced entity relationship model. Or you can simply say it is the advanced. It is an advanced version of ER model which also feature which could also feature or which could model complex real world hierarchy in relationship, especially when you are designing.
+CHENNUPATI R PRASANNA . 3 minutes 27 seconds
+hierarchy relation you have to use this extended ER model what do you mean by hierarchy and relationship see relationships I definitely would be using and diamond symbol to relation between two uh entities but if you have to capture a hierarchy then you have
+CHENNUPATI R PRASANNA . 3 minutes 46 seconds
+To use extended relationship especially like CAD, CAM, telecommunication. OK, however more complex data applications are used. We try to use extended entity relationship. So extended there are three main components in extended entity relationship. The first one is.
+CHENNUPATI R PRASANNA . 1 hour 14 minutes 50 seconds
+Now first I'll finish theory in the next class. What I will do is I'll take a diagram and I'll try to convert right. The next step is mapping all weak entities. See what is the mapping all weak entities is weak entities are dependent entities on a strong entity. That word you have to always remember now for each weak entity type.
+CHENNUPATI R PRASANNA . 1 hour 15 minutes 10 seconds
+W in an ER schema with owner entity type E creates a relationship that includes all sample attributes or composite attribute W as an attribute of R also include a foreign key attribute of R that primary key attributes to the relation. Now we will talk about this with.
+CHENNUPATI R PRASANNA . 1 hour 15 minutes 30 seconds
+Help of a diagram here. So how will you map? Let's say I have an entity called employee and I have a weak entity relationship called dependent. OK.
+CHENNUPATI R PRASANNA . 1 hour 15 minutes 48 seconds
+Dependent. Now how do I map them? See when I'm mapping this employee, there should be something called dependent ID. OK name.
+CHENNUPATI R PRASANNA . 1 hour 16 minutes 2 seconds
+Relationship. OK, and then some someone. I have to make sure there is a primary key that is mapping this. I should make sure that there's a primary key that is mapping this relationship. OK, that is pretty important that you have to take care.
+CHENNUPATI R PRASANNA . 1 hour 16 minutes 21 seconds
+Right. Also include a foreign key. Nope, I forgot to say primary. I I told primary key, but I'm really sorry. There should be a foreign key which has to be taken care. What? What is that foreign key? Some of you have to capture this relationship, right? So a key that is primary here, OK, that should be.
+CHENNUPATI R PRASANNA . 1 hour 16 minutes 41 seconds
+Acting as a foreign key in this or else the other way around. Here employee ID is primary key right? The same employee ID I can use here which will have the relationship and this employee ID will act as a.
+CHENNUPATI R PRASANNA . 1 hour 16 minutes 57 seconds
+4.
+CHENNUPATI R PRASANNA . 1 hour 16 minutes 58 seconds
+Foreign key. OK, that will act as a foreign key that has to be taken very much carefully. That is what this thing is saying. The primary key of R is the combination of the primary keys of the owners and the partial key of the weak entity W if any. So what is that?
+CHENNUPATI R PRASANNA . 1 hour 17 minutes 18 seconds
+There could be a combinational kind of primary key also available. The next is one is to one relate for every binary, one is to variation type arc in the entity schema, identify the relationship S&T that corresponds to the entity type.
+CHENNUPATI R PRASANNA . 1 hour 17 minutes 34 seconds
+Particularly in R what is you have to make sure that there is a relation between all entities that are part of your diagram. So how are you doing this to achieve that? There are three three possible approaches. How are you going to map this relationship between entity to entities using three?
+CHENNUPATI R PRASANNA . 1 hour 17 minutes 53 seconds
+Foreign key, merge relation option, cross reference relationship. What is foreign key? Choosing one of the relationship, let's say yes, OK, one of the yes and include a foreign key in the S that refers to the primary key.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 9 seconds
+Of T it is better to choose an entity type with the total participation in R in the role of yes. So when you are trying to have a foreign key relationship, please make sure that you have an you have an total participation. Here I I are the slides moving.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 27 seconds
+Are the slides moving? I don't know what is happening today. My Internet, I'll just check it.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 34 seconds
+Continuously there is an issue.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 39 seconds
+No, right. That's what I'm seeing.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 42 seconds
+Just give me a second here then just.
+CHENNUPATI R PRASANNA . 1 hour 18 minutes 45 seconds
+Now it moved the the speed is around 300 MBPS. What is the speed I'm buying for my?
+CHENNUPATI R PRASANNA . 1 hour 19 minutes
+That's no problem.
+CHENNUPATI R PRASANNA . 1 hour 19 minutes 4 seconds
+Hmm, this device is having a weak speed. Yes, the secondary device which.
+CHENNUPATI R PRASANNA . 1 hour 19 minutes 13 seconds
+That's a problem my my device is.
+CHENNUPATI R PRASANNA . 1 hour 19 minutes 18 seconds
+Two Mbps. That's the reason why.
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 8 seconds
+Still there is OK.
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 12 seconds
+Yeah, can we stop for today? Can we stop for today? Next week we'll start properly. I'll also get a Wi-Fi extender. Can we stop for today? Because there is a continuous Internet lagging, I'm feeling really.
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 27 seconds
+Not too convinced.
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 30 seconds
+Is it OK? Can we stop for today?
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 40 seconds
+Because there's continuous Internet lagging and I'm teaching something and OK, so we'll I'll be there till 6:10. If there are any questions related to previous topics, so let me upload this. I'll just share the slides so that you can go through and ask me here, OK?
+CHENNUPATI R PRASANNA . 1 hour 20 minutes 58 seconds
+OK.
+CHENNUPATI R PRASANNA . 1 hour 21 minutes
+Yes, I'm just. I'll be in mute and I'll switch off the camera, but I'm here till 610 here.
+CHENNUPATI R PRASANNA . 1 hour 21 minutes 13 seconds
+Yeah.
+CHENNUPATI R PRASANNA . 1 hour 21 minutes 17 seconds
+Meanwhile, I'll be uploading the slides here.
+CHENNUPATI R PRASANNA . 1 hour 22 minutes 30 seconds
+So which slide do you want? I'll I'll start from this topic only. Is that what you are asking?
+CHENNUPATI R PRASANNA . 1 hour 22 minutes 54 seconds
+Is that what you wanted?
+CHENNUPATI R PRASANNA . 1 hour 23 minutes
+Yes.
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 3 seconds
+From here, right?
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 5 seconds
+You're from here.
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 8 seconds
+So basically I'll start, yes, this whole topic we'll start here with an example I'll take. Then from example we'll try to convert and I'll cover each and every topic. OK, so that see again I'm just showing also it is not at all letting me take the slide there.
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 26 seconds
+OK, we'll do it. Yes, not a problem.
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 35 seconds
+OK, one quick query. Is the classes going OK? Do you want me to improve some more thing?
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 42 seconds
+This this slide all are delayed.
+CHENNUPATI R PRASANNA . 1 hour 23 minutes 52 seconds
+Are the do you want any improvisation so that I can plan for my next class and do that? Is it OK? Is the space OK? You're free to please ask the questions and you're OK. So if you hesitate, please drop me in here. I'm here and you just.
+CHENNUPATI R PRASANNA . 1 hour 24 minutes 11 seconds
+Go through the slides and ask me questions here, especially for Uh and extended ER.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 12 seconds
+Are there no questions? We'll just OK, I'll see.
