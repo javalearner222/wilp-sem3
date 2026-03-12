@@ -1,0 +1,87 @@
+Yeah, thanks Gaurav for confirming. So technically we were supposed to start relational algebra and relational calculus. Instead of that, what we I have decided is since next week is your mid-sem, I have decided to cover a topic called structured query language, which will be part of the makeup exam. Okay, so once you write the regular,
+CHENNUPATI R PRASANNA . 8 minutes 33 seconds
+And those who are appearing for makeup, they can think there could be questions from this and relational algebra, which I'll be covering in the 9th context section. That is what I have planned. So now let me talk about the structured query language discussion. OK.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 15 seconds
+So at least you have comfort with the select operation.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 24 seconds
+Okay, now I am giving you homework. How are you going to finish?
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 31 seconds
+I want you to select Insert.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 35 seconds
+Insert command.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 38 seconds
+How are you going to insert the values into the table? Just can you say?
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 45 seconds
+Yes, that's correct, PREETI. We're going to use the joint. We will talk about inner joint, outer joint, left joint, right joint in the next class here. OK, as of now, just keep it in simple, OK?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes
+So, can we end the class today?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 4 seconds
+Can we end the class for today?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 22 seconds
+Okay, meanwhile, can you work on the insert command? No, I'll be here. I'll wait for 5 minutes. You work on the insert command and say me.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 31 seconds
+Sem me the curry.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 39 seconds
+Yes, I'll share all the PPTs here.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 23 seconds
+Very good. I have got very nice answers. Insert into. See when you are inserting the command that you use is very nice. Insert into the table name. Here the table name, let's say it's employee, you are insert and the values that you are insert, the order in which.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 42 seconds
+the order in which the attributes are there, that order only have to do. Now, for example, it is integer, let's say 20. If it's character, it has to be in the codes, right? Let's say A, B, C, very good. And see, there is a wrong which said that you see X, Y, Z is also.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 2 seconds
+So it should be in code. Now one thing that you have to find and let me know, if this way you are inserting, you're inserting one record at a time. But if you want to insert multiple records, how will you do? And if you want to skip some of the attributes, then you have to say.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 21 seconds
+Insert.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 23 seconds
+those attributes name. Otherwise you have to always follow the order. Now say me those answers, please.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 43 seconds
+Yeah.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 54 seconds
+Do that.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 57 seconds
+How do you do that?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 4 seconds
+So, if if you're inserting insert into, you'll be keep on inserting one record, but all all of a sudden it is a PREETI things if there are 50 records I want to answer, if I want to answer or insert them all at one go, how will I do that?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 11 seconds
+Um, that's correct. Multiple values, that's correct.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 27 seconds
+So, can we stop for the day?
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 30 seconds
+So how many of you would try to implement this in the lab worksheets or in the Oracle version?
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 41 seconds
+How many of you want to do that?
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 57 seconds
+Okay, so you please try and if you have any questions you can reach out to me. So I'm stopping this recording and we are ending the session. We should all okay.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 9 seconds
+The most important, no one asked about the midterm syllabus.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 13 seconds
+Well, last week we had class, Nazita. Wait, tomorrow do we have a class? Let me see.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 19 seconds
+Let me see the canal. There are no classes if I'm not wrong.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 25 seconds
+Oh, evening.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 27 seconds
+No, that's not true. This is today, one second.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 32 seconds
+Okay, tomorrow you want to have class? You want I can take if you say this is an extra class, right? Last week also we had one class once again. Two class cancelled, 28th I have taken the class. No, 28th, my first first. This first I have taken the class.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 55 seconds
+First class we have taken.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 58 seconds
+Do you want to have tomorrow's class? I can take here.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 7 seconds
+Siddharth, do you want to have tomorrow class? Please let me know. If you feel no, it's exam week, we can have this class later, then we will plan next to next week.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 19 seconds
+As of now, it is scheduled, you please let me know.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 26 seconds
+Siddharth, you can just answer.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 35 seconds
+That I will do. Do you want to have tomorrow's class or not? Gaurav, Siddharth, PREETI, you say?
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 44 seconds
+PREETI, since you are the class here, you can let you can let me know.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 52 seconds
+We.
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 7 seconds
+I'll have tomorrow class here since you're not responding. Let's meet tomorrow.
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 23 seconds
+Siri.
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 27 seconds
+Suppose Sem, the mid-sem syllabus will have till relational conversion of ER diagram to entity relation. OK, however, I'll post that here. OK, very limited syllabus only, I'm keeping here.
