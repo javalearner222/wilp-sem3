@@ -1,0 +1,115 @@
+Yeah, good afternoon, everyone. Thank you.
+CHENNUPATI R PRASANNA . 3 minutes 24 seconds
+Yeah, good afternoon, everyone.
+CHENNUPATI R PRASANNA . 3 minutes 27 seconds
+Siki.
+CHENNUPATI R PRASANNA . 3 minutes 55 seconds
+Okay, can anyone confirm you're able to see the screen? The audio is pretty clear and you are able to cheque your mics are enabled. Could anyone please do confirm? I think mics one second, with mics one second. Okay, okay, mics, now you can cheque whether the mics are visible on.
+CHENNUPATI R PRASANNA . 4 minutes 16 seconds
+I'm sorry, the mics are enabled or not. OK, good evening, everyone. So let's start on the topic of entity relation diagram conversion into relational schema. That is what we started in last before last class, and I could not cover it well, so we thought we'll take.
+CHENNUPATI R PRASANNA . 4 minutes 36 seconds
+And last class I have cancelled it. OK, by the way, tomorrow you do have an extra class at the same time. So please do join. We might have the class for 1 1/2 or not more than that yet. OK, so we will quickly where we'll be talking about something called as a relational algebra. That is the idea for tomorrow's class. So today what we will work, we'll work mostly on relational diagram to relational scheme and you are free to.
+CHENNUPATI R PRASANNA . 5 minutes 1 second
+Stop me and ask because this is one of the important topic that you can expect. Syllabus till this point here, okay, so till this point we are planning for the mid-sem and the next two classes which are relational algebra and relational calculus, we would try to keep it for the makeup exam, right? That is what the whole plan is what.
+CHENNUPATI R PRASANNA . 5 minutes 21 seconds
+We are intended to do, okay?
+CHENNUPATI R PRASANNA . 5 minutes 27 seconds
+So first, okay, everyone is comfort with drawing a relational ER model. First of all, can you please raise your hands if a given scenario is given?
+CHENNUPATI R PRASANNA . 5 minutes 39 seconds
+And when we ask you to work with relational models, I hope you'll be able to work on them. Well, sorry, not relational. Ask you to design A entity relation model. Will you be able to do that? A scenario is given and you have been asked to design A relation ER model. Will you be able to do that?
+CHENNUPATI R PRASANNA . 5 minutes 59 seconds
+The guess is for I don't think the S is standing for this.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 24 seconds
+You want me to paste it?
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 29 seconds
+Control C.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 36 seconds
+So I hope I'm pasting something, yes.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 46 seconds
+Is it clearly visible for everyone? I hope, yes. OK.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 54 seconds
+OK, now let's work on this here.
+CHENNUPATI R PRASANNA . 1 hour 39 minutes 58 seconds
+Let's work. Now, first of all, you convert, sorry, you convert employee table.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 8 seconds
+Department table.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 11 seconds
+Okay.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 14 seconds
+Project T.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 16 seconds
+OK, first you convert these tables.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 19 seconds
+Only these three tables.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 22 seconds
+Employee table, department table, and projector tables. Can you convert them?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 28 seconds
+I'm not talking about relation conversion. Are these three strong entities?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 34 seconds
+Are all these these strong entities?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 38 seconds
+Are these three strong entities?
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 42 seconds
+Yes, first convert those strong entities.
+CHENNUPATI R PRASANNA . 1 hour 40 minutes 46 seconds
+Let's convert those strong entities, then only I'll talk about the other one. Convert and share me the answers, please.
+CHENNUPATI R PRASANNA . 1 hour 41 minutes 11 seconds
+Tip.
+CHENNUPATI R PRASANNA . 1 hour 42 minutes 40 seconds
+Have you completed it?
+CHENNUPATI R PRASANNA . 1 hour 42 minutes 43 seconds
+Have you completed the first one at least for employee? Okay, in employee what is okay. However, if you're not able to see them clearly, I hope the chart it is clear, right? The chart diagram, yes, it's clear. Okay.
+CHENNUPATI R PRASANNA . 1 hour 42 minutes 56 seconds
+One quick question I'll have, is there any composite value key? Do you have any composite? Okay, in employee you have made SSN as the primary key, D department, that's what again, okay, address perfect, name you have gone first name. Here, Gaurav, name you should not use.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 15 seconds
+Name as what? First name, middle name, and last name. So that name column which you have used, right? The name which you have said, once again.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 26 seconds
+This name cannot have as an entity as an attribute. This is no more attribute at that place. What you will write SSN. OK, birth birth date. OK, first name.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 42 seconds
+Midname, OK, last name, and then address, and then salad. This is what will you do. OK, that's the correction. Do that correction here. Got the correction, Gaurav?
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 56 seconds
+Have you got that correction or no?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 1 second
+That is very important because the exam you can expect something like this, not this exactly, something like this.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 11 seconds
+Now, what about department?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 15 seconds
+What about department?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 30 seconds
+Name, number.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 33 seconds
+And you see carefully, OK?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 37 seconds
+Did anyone thought that department when you're writing for department?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 43 seconds
+Did anyone thought that will you have department table will have only name?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 51 seconds
+N number.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 55 seconds
+Has anyone thought that?
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 58 seconds
+See, why not location? What is location? Location is multi-value attribute, so you should have other table called department underscore location, where you have department number denim.
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 14 seconds
+And location, and these two will act as a together, right? So, Finn, did you finish that?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 28 seconds
+Will you show me this answer in the next class?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 32 seconds
+Will you show me the answer in the next class?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 36 seconds
+So tomorrow we have classroom 4 to 6. Do you remember that? There's a classroom 4 to 6. Will you show me this answer tomorrow?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 46 seconds
+Everyone, if yes, give a thumbs up.
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 49 seconds
+Everyone will try and OK. Today, you do paste it in the chat windows. Tomorrow, we will have the discussion. So, can I stop the lecture?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 59 seconds
+See, only first 10 minutes to 15 minutes, we'll discuss about this solution. Okay? However, tomorrow after the class, I'll give you a proper solution PPT. Each step, okay? Each step, I'll give you the solution. Okay?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 18 seconds
+Or you want to cheque if I give you a solution right now, will you convert and cheque whether your solution is correct or not? And then we can have discussion. What do you think? You want me to give you a solution right now?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 35 seconds
+Tomorrow, during the class, which one do you want?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 39 seconds
+Which one do you want yet?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 43 seconds
+Tomorrow, perfect.
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 44 seconds
+So, tomorrow I'll give you the solution, so try to finish. OK, then, in that case, we will stop the session today.
