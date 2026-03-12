@@ -1,0 +1,117 @@
+Okay.
+CHENNUPATI R PRASANNA . 1 minute 25 seconds
+Okay, good afternoon everyone. I hope the audio is clear, right? Yeah.
+CHENNUPATI R PRASANNA . 1 minute 36 seconds
+Yeah. Good afternoon everyone. I hope the audio is clear. You are able to see the slides, the video is clear, right? Could I get the confirmation from someone that things are clear?
+CHENNUPATI R PRASANNA . 1 minute 48 seconds
+Yeah, thanks Gaurav for confirming. So today we will be starting and small topic called as or I should not say this topic. We will start with the concept called ER modelling, right? That is what we will be focusing today in the session.
+CHENNUPATI R PRASANNA . 2 minutes 7 seconds
+OK, which we might even go to the extended year depending upon the time constraints. OK, so lets talk about the contents that we are going to discuss, right?
+CHENNUPATI R PRASANNA . 2 minutes 25 seconds
+Okay, first step, we'll go with this.
+CHENNUPATI R PRASANNA . 2 minutes 33 seconds
+So now lets assume that someone wanted you to design a database system. So what are the major steps that are involved in designing a database system? Is what we will be discussing today. So first and foremost step is the most critical step is understanding the requirement. So we call it as a.
+CHENNUPATI R PRASANNA . 2 minutes 51 seconds
+Requirement analysis. OK, what does the requirement analysis step is so important. If something goes wrong, the entire database will be at some fault, right? So that's the first step. So you have to understand. So requirement analysis is the first step when you're designing it.
+CHENNUPATI R PRASANNA . 3 minutes 10 seconds
+Data processor, right? So what does what are the things involved? The first step is understanding the domain. What are you going to understand? domain means. So understand what does the domain means. Domain means that the application area for which the database is being built, right? That is around. For example, when I talk about these domains, you might.
+CHENNUPATI R PRASANNA . 3 minutes 31 seconds
+Think library system is a domain, hospital management system is a domain banking system, college these are all the domains. Now first, now first the designer should understand few things. The Once you knew the domain, now the designer should understand few of the things. What are the thing how the organization is going to work?
+CHENNUPATI R PRASANNA . 1 hour 42 minutes 32 seconds
+Score cannot be unique, driver exam date cannot be unique, so dry exam type cannot be unique.
+CHENNUPATI R PRASANNA . 1 hour 42 minutes 44 seconds
+Till here this is done. OK, till here this is done. Now I have a question where do i Am capturing the information about license? Now will first not try to add the relationship but will try to identify regarding license.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes
+I have license.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 7 seconds
+Add something about license. Now I'll ask you a question.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 11 seconds
+License has got 3 attributes. Can anyone say what are those license?
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 18 seconds
+Licence number.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 25 seconds
+And this is unique, so can I make it as a primary key? Okay, I did then license will always come with expiry date.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 35 seconds
+License expert, this can be same for multiple people now license number is unique. License issue date, right? License issue date.
+CHENNUPATI R PRASANNA . 1 hour 43 minutes 50 seconds
+Now, one thing you remember, I told there is one statement if you read a driver license must also record the driver has completed drivers education for insurance purpose. So something called license classes he has to do whether he has done or not, yes or no.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 9 seconds
+License classes is the till this attributes are okay. Till this attributes are okay. Now I will ask you a question.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 20 seconds
+Now, if you remember, there is one condition that driver can get learning license and driver can get driver license. Have you read that? Yes or no? Driver is getting learning license and driver has a learning license. So first, a license can be of.
+CHENNUPATI R PRASANNA . 1 hour 44 minutes 38 seconds
+2 types whether it is driver's license, sorry, full time license or learning license. Now how do I capture that? Those are not attributes. There is something called as ISA which I will not explain you which is about the association. Okay, what is that ISA? Can anyone think what is how do I?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 1 second
+Can anyone think?
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 3 seconds
+ISA is called is a relationship. This is used to capture multiple represent inheritance. If you are travelling and inheritance then you will use is relation and is relation comes under the topic as extended entity relation which I have not thought.
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 22 seconds
+You as of now in a simple way a license will have an ease relation it is represented with triangle. What is this actually I should draw it the other way round.
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 47 seconds
+Is relation.
+CHENNUPATI R PRASANNA . 1 hour 45 minutes 50 seconds
+Correct only. Sorry, I drewed it correctly. This way a licenses how many times? There are 2 types: learner license, learner elite, the other one license you have is full time license or drivers license, DL correct?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 9 seconds
+So either a license could be learner license or DLI is a license is a learner or driver. If it is learner, what is the attributes you should have?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 23 seconds
+What is the attribute?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 26 seconds
+What should the attributes itself issued date?
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 32 seconds
+Issue date and expiry date expiry and also should I have drivers ID which is L learners. Will you agree with this thing here? I am not going to keep it as a unique key. Why? Because.
+CHENNUPATI R PRASANNA . 1 hour 46 minutes 51 seconds
+Unique key is always once he finishes, he will get this as unique key, right? What about drivers license? If it is a driver license, what was the restrictions that have been imposed? There is nothing because driver license information is there, right? So we already made so restriction.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 12 seconds
+Or I cannot even, I will not even like to put this here.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 20 seconds
+OK, I will simply say license can be either a learner license or a driver license. Some attributes you wanted to add you just add some kind of attributes you wanted to add.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 34 seconds
+Now I will try to do the relationship.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 39 seconds
+Lets see, driver will have a license, but when will have driver who owns the license? License is owned by.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 53 seconds
+I'll change this colour, yeah.
+CHENNUPATI R PRASANNA . 1 hour 47 minutes 57 seconds
+Do driver own license? Driver owns license, either it could be learner license or anything. Who issues the license? Who issues the license? Branch issues the.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 13 seconds
+License, is this correct?
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 16 seconds
+License is owned by driver. License is issued by. Sorry, driver. Its driver owns the license is owned by driver. License is issued by the branch, correct or wrong? Whenever there is a issue, will you have a issue date? She will have it.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 36 seconds
+He should.
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 38 seconds
+Is this clear?
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 41 seconds
+Is this clear or we have to discuss something more?
+CHENNUPATI R PRASANNA . 1 hour 48 minutes 47 seconds
+Is this clear? I know we have not done in detail, but you have to do more and more practices. OK, next class we will finish extended ER and whatever is left in this we will try to finish and do one more problem. Is that OK? The next class we can do one more problem.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 8 seconds
+Yep, Sandhya, I hope everythings are clear. Siddiqui, Sandhya, yeah, Gaurav, everythings are clear.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 25 seconds
+Bahini, okay, these were the people who have okay, Harika has responded, so I hope these are clear.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 34 seconds
+Now I will ask you some questions.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 37 seconds
+Can I ask you one more question before we go out?
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 45 seconds
+Perfect.
+CHENNUPATI R PRASANNA . 1 hour 49 minutes 50 seconds
+Okay, no, I will give you a homework. Yeah, so better it is you do this. I will take the screenshot of you.
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 10 seconds
+Give me one second, yes.
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 39 seconds
+See scenario has been pasted. Would you try to do this problem?
+CHENNUPATI R PRASANNA . 1 hour 50 minutes 48 seconds
+I will try to design an ER diagram for this problem here.
+CHENNUPATI R PRASANNA . 1 hour 51 minutes 3 seconds
+I have given you the attributes, I have given you the entities. I want you to create an relation for this diagram. Will you be able to do that?
+CHENNUPATI R PRASANNA . 1 hour 51 minutes 15 seconds
+you able to do that? If yes, when can I expect the answer next class?
+CHENNUPATI R PRASANNA . 1 hour 51 minutes 32 seconds
+Perfect.
+CHENNUPATI R PRASANNA . 1 hour 51 minutes 35 seconds
+Can we end the session?
+CHENNUPATI R PRASANNA . 1 hour 51 minutes 41 seconds
+Okay, I'll be there for 5 minutes. If you have a questions, please type. If not, then I will close the session.
+CHENNUPATI R PRASANNA . 1 hour 52 minutes 11 seconds
+Can we end for the day? Okay, I think people are all sex, but let me end the recording here.
