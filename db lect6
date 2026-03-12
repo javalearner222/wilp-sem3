@@ -1,0 +1,79 @@
+Is the problem which I gave you?
+CHENNUPATI R PRASANNA . 0 minutes 14 seconds
+How many of you have done the problem yesterday?
+CHENNUPATI R PRASANNA . 0 minutes 18 seconds
+Yeah, and the employee table, correct.
+CHENNUPATI R PRASANNA . 0 minutes 22 seconds
+Good.
+CHENNUPATI R PRASANNA . 0 minutes 26 seconds
+Could you please place your answers?
+CHENNUPATI R PRASANNA . 0 minutes 50 seconds
+Can I show the answer right now?
+CHENNUPATI R PRASANNA . 1 minute 3 seconds
+Yeah.
+CHENNUPATI R PRASANNA . 1 minute 7 seconds
+Yeah, if I'm not wrong, this was the question yesterday we had discussed.
+CHENNUPATI R PRASANNA . 1 minute 12 seconds
+Do you want to have a detailed discussion about the conversion of the given entity relation like now to relational schema?
+CHENNUPATI R PRASANNA . 1 minute 23 seconds
+First, let me allow you to participate. Sorry.
+CHENNUPATI R PRASANNA . 1 minute 33 seconds
+Yep.
+CHENNUPATI R PRASANNA . 1 hour 26 minutes 3 seconds
+If you see, this is what you did for the table. And now, Sem, what are the foreign keys?
+CHENNUPATI R PRASANNA . 1 hour 26 minutes 10 seconds
+Just look at, that's why I asked, I gave you time to look into the table to see whether it is correct or not. How is it correct? Now we understood that is the foreign key. The foreign keys when we are using, we talk about them as referential integrity. Now everything is clear, relational schema is clear. So what is left out?
+CHENNUPATI R PRASANNA . 1 hour 26 minutes 32 seconds
+Now we have to talk about relational algebra. Is it okay if we talk it on the 7th March class?
+CHENNUPATI R PRASANNA . 1 hour 26 minutes 41 seconds
+Relational algebra, can we talk on 7th March class or no? Okay, I will wait for 5 minutes before we go to the closure. Are there any questions? Is this clear? Or what we have learned today, we have worked on the conversion of entity relational
+CHENNUPATI R PRASANNA . 1 hour 27 minutes
+diagram to entity relational, diagram to relational schema. And we understood what is relational schema. In relational schema, we have learned about the constraint. We have learned the definition of relation. We have learned about the definition of topics. That's all. You have not learned too much, but very important topic. Next is relational RG. What is relational RG?
+CHENNUPATI R PRASANNA . 1 hour 27 minutes 21 seconds
+See, when a database is being developed, I have to run queries. So the queries that I run on commercial platform are structured query languages or relational query languages. The mathematical behind that relational query language is relational algebra. That is what we will learn in the next class. In the next class, we'll learn relational algebra.
+CHENNUPATI R PRASANNA . 1 hour 27 minutes 40 seconds
+followed by relational calculus and for makeup, yes, there would be a question on relational algebra. Any questions? I will wait for 5 minutes and then I will stop. If there are no questions, as I promised, I'll take only 1 1/2 hour session. So I'm taking only 1 1/2 hour session for two. OK? OK. Any questions?
+CHENNUPATI R PRASANNA . 1 hour 28 minutes 18 seconds
+Any questions or no questions?
+CHENNUPATI R PRASANNA . 1 hour 28 minutes 28 seconds
+Ch.
+CHENNUPATI R PRASANNA . 1 hour 28 minutes 29 seconds
+If no question says no question, yeah, we'll close. I don't want to just make you sit on Sunday and ask you, okay, please, please ask us, no.
+CHENNUPATI R PRASANNA . 1 hour 28 minutes 47 seconds
+There are questions. Okay, no doubts. Perfect. Is everything clear as of now what we discussed?
+CHENNUPATI R PRASANNA . 1 hour 28 minutes 54 seconds
+Or are there anything that you wanted me to just step in and do everything? So I'll be there for next 5 minutes and then I will close the meeting. Okay, there is a question, different like checking whether the attribute in one table is present in other table. Yes, absolutely. But which table? I'll say you here. See, when you are talking about department location.
+CHENNUPATI R PRASANNA . 1 hour 29 minutes 13 seconds
+Location and department, right? Let's have a look at these two, right? K. Now, when I'm entering in department location, I wanted to enter D now and D location. It cannot randomly, and I have only four departments, one, two, three, 4. Now, when I'm entering...
+CHENNUPATI R PRASANNA . 1 hour 29 minutes 33 seconds
+One, two, three, 4. Already I would add a department one, two, three, 4 information in this department. Suddenly I'm entering 5 and saying it is in.
+CHENNUPATI R PRASANNA . 1 hour 29 minutes 47 seconds
+where I don't have any open. Is this should be allowed or no? Say, okay, is this should be allowed or no? This should not allow. And how will I cheque if it was a foreign key representing the department and see, okay, either you can enter one, you can enter two, you can enter three, or you can enter 4.
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 6 seconds
+but not five. That is, if five has to be entered, then first department table has to be updated, then only I can do here, right? So this will ensure that no unwanted information are adding. So it will make sure that how many departments here? Only 4. And in department locations, that four can be there at multiple places, but not beyond this.
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 27 seconds
+Four, any new thing should not be entered. That's the reason why we have to check. The referral integrity will cheque for the consistency. We'll not talk about uniqueness. Why? Because, why? Because now let's take it. Four is located in Hyderabad. The same four can be located in Chennai.
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 46 seconds
+This information I can have, right? So that is what we have to be very, very cautious. Anything else?
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 53 seconds
+Any other information?
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 56 seconds
+Any other questions that you would like to ask?
+CHENNUPATI R PRASANNA . 1 hour 30 minutes 59 seconds
+Got it, K. I see, please do ask questions here.
+CHENNUPATI R PRASANNA . 1 hour 31 minutes 4 seconds
+It would be really enjoying. I will also enjoy by. I have allowed you to take part in my ask questions directly by work. See if you can ask, I will also enjoy teaching you here. Otherwise it becomes a monitor. I have to see the discussions are actually the classes are planned with discussion. It's not.
+CHENNUPATI R PRASANNA . 1 hour 31 minutes 22 seconds
+for one-way delivery. You're already employees, you have a job. So please ask questions, more questions, right? See, it will not affect any of your performance, nothing, no one will remember anything yet. Questions are always welcome to be asked. If there are no questions, can we stop the session? At least say yes or no.
+CHENNUPATI R PRASANNA . 1 hour 31 minutes 47 seconds
+Can we stop the session?
+CHENNUPATI R PRASANNA . 1 hour 31 minutes 51 seconds
+Yes, Gaurav has said yes. Any one more to, oh, Siddhar has also said yes. Okay. Bye-bye. So we will be just closing the session. One, 2 minutes, I'll just wait before I close. I wanted to ensure that, oh, yes, Debbie have closed it. Okay. Today, what time are we started?
+CHENNUPATI R PRASANNA . 1 hour 32 minutes 9 seconds
+We started on 4-3. Perfect. We can close right now, so it is okay.
+CHENNUPATI R PRASANNA . 1 hour 32 minutes 16 seconds
+Thanks, Jeff. Thanks, everyone. Let's you can start leaving. I'll see at least people are leaving your donor, then I'll close.
+CHENNUPATI R PRASANNA . 1 hour 32 minutes 37 seconds
+Yeah, let me.
+CHENNUPATI R PRASANNA . 1 hour 32 minutes 39 seconds
+First stop the presentation and let me. So one thing that you wanted me is to make sure that I give you the PPTs in the watermark format from the beginning. I'll do that. OK.
